@@ -18,7 +18,7 @@ favicon:
   small: /images/favicon-16x16.png
   medium: /images/favicon-32x32.png
   apple_touch_icon: /images/apple-touch-icon.png
-  safari_pinned_tab: /images/logo.svg
+  safari_pinned_tab: /images/logo.png
   #android_manifest: /images/manifest.json
   #ms_browserconfig: /images/browserconfig.xml
 
@@ -51,7 +51,7 @@ footer:
     version: true
   # -------------------------------------------------------------
   # Any custom text can be defined here.
-  #custom_text: Hosted by <a target="_blank" href="https://pages.github.com">GitHub Pages</a>
+  custom_text: Hosted by <a target="_blank" href="https://pages.github.com">GitHub Pages</a>
 
 # ---------------------------------------------------------------
 # SEO Settings
@@ -138,6 +138,7 @@ links_layout: block
 #links_layout: inline
 links:
   Travis CI: https://travis-ci.org/
+  Wise Turtles: http://blog.wiseturtles.com/
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
@@ -341,15 +342,15 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 2b47f91b8532d1a5e950c8e77142d95c
 
 # Duoshuo ShortName
 #duoshuo_shortname:
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: lianglin999
   count: true
 
 # Hypercomments
@@ -385,7 +386,7 @@ valine:
 # Available value:
 #    button | slide
 # Warning: Baidu Share does not support https.
-#baidushare:
+baidushare: true
 ##  type: button
 
 # Share
@@ -533,7 +534,7 @@ algolia_search:
 # Local search
 # Dependencies: https://github.com/flashlab/hexo-generator-search
 local_search:
-  enable: false
+  enable: true
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
