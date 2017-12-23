@@ -17,7 +17,7 @@ override: false
 favicon:
   small: /images/favicon-16x16.png
   medium: /images/favicon-32x32.png
-  apple_touch_icon: /images/apple-touch-icon.png
+  apple_touch_icon: /images/favicon-32x32.png
   safari_pinned_tab: /images/logo.png
   #android_manifest: /images/manifest.json
   #ms_browserconfig: /images/browserconfig.xml
