@@ -23,7 +23,7 @@ favicon:
   #ms_browserconfig: /images/browserconfig.xml
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT"
+keywords: "crazygit, share"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -367,9 +367,9 @@ changyan:
 # You can get your appid and appkey from https://leancloud.cn
 # more info please open https://github.com/xCss/Valine
 valine:
-  enable: false
-  appid:  # your leancloud application appid
-  appkey:  # your leancloud application appkey
+  enable: true
+  appid:  bWUs89CHYswTxwt88Jf71tIF-gzGzoHsz
+  appkey: IcudhQhVD2eqKqkOTQQ6agUS
   notify: false # mail notifier , https://github.com/xCss/Valine/wiki
   verify: false # Verification code
   placeholder: Comment input placeholder
