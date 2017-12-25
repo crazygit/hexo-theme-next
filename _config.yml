@@ -82,8 +82,10 @@ index_with_subtitle: false
 menu:
   home: / || home
   categories: /categories/ || th
-  tags: /tags/ || tags
   archives: /archives/ || archive
+  tags: /tags/ || tags
+  books: /books/ || book
+  # movies: /movies/ || film
   about: /about/ || user
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
@@ -100,8 +102,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-#scheme: Mist
-scheme: Pisces
+scheme: Mist
+#scheme: Pisces
 #scheme: Gemini
 
 
@@ -183,7 +185,7 @@ sidebar:
   b2t: false
 
   # Scroll percent label in b2t button.
-  scrollpercent: false
+  scrollpercent: true
 
   # Enable sidebar on narrow view (only for Muse | Mist).
   onmobile: false
@@ -238,7 +240,7 @@ wechatpay: http://images.wiseturtles.com/wechatpay.jpg
 
 # Declare license on posts
 post_copyright:
-  enable: false
+  enable: true
   license: CC BY-NC-SA 3.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
 
