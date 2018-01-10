@@ -409,7 +409,7 @@ google_site_verification: AbF6G10N67H-FaerplTnvfAXJrTtXBGHdr4xsSot7z8
 baidu_site_verification: mEI3NT6pyx
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-112251188-1
 
 # Bing Webmaster tools verification setting
 # See: https://www.bing.com/webmaster/
