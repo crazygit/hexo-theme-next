@@ -32,7 +32,7 @@
 
 合并要更新到版本的代码
 
-    $ git merge v5.1.4
+    $ git merge v5.1.4 --allow-unrelated-histories
 
 根据实际情况解决冲突。
 
