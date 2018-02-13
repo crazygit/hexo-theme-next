@@ -153,7 +153,7 @@ links_layout: block
 #links_layout: inline
 links:
   Travis CI: https://travis-ci.org/
-  ox0spy https://ox0spy.github.io/
+  ox0spy blog: https://ox0spy.github.io/
   Wise Turtles: http://blog.wiseturtles.com/
 
 # Sidebar Avatar
